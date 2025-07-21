@@ -4,7 +4,6 @@ This bot fetches NFT floor prices using the OpenSea API, CoinMarketCap for ETH/P
 
 ## Features
 - Tracks floor prices for Lil Pudgy, Pudgy Rods
-- Calculates portfolio value
 - Uses OpenSea API for reliable data
 
 ## Intended Use
